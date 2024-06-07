@@ -1,0 +1,148 @@
+
+.profile-contain{
+ padding-left: 15%;
+ padding-right: 15%;
+ padding-top: 20px;
+ background: rgb(236, 218, 218);
+}
+.cover-image{
+    width: 100%;
+}
+.sq-profile{
+    width: 65px;
+    border-radius: 4px;
+    margin: 7px;
+}
+.aa{
+display: flex;
+align-items: center;
+justify-content: space-between;
+flex-basis: 20%;
+padding: 20px;
+background: white;
+}
+.bb{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+}
+.cc{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.dd{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ee{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 9px;
+}
+.ff{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.gg{
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: rgb(125, 19, 247);
+}
+.gg p{
+    margin-top: 0;
+    margin-bottom: 0;
+   
+}
+.hh{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.dd img{
+    width: 20px;
+}
+.ee img{
+    width: 22px;
+    border-radius: 50%;
+}
+.cc h3{
+    margin-top: 0;
+    margin-bottom: 0;
+   
+}
+.dot p{
+    background-color: rgb(148, 140, 131);
+    font-size: large;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+.intr-post{
+    display: flex;
+    margin-top: 20px;
+    align-self: flex-start;
+
+}
+.intro{
+height: auto;
+margin-right: 20px;
+}
+
+.inner-intro{
+    background: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.friends{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+    flex-basis: 20%;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+    flex-direction: column;
+}
+.inside-first1, .pro-name, .last{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.pro-name img{
+width: 20px;
+}
+.last img{
+    width: 25px;
+    border-radius: 50%;
+}
+.pro-name div{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background: burlywood;
+    }*/
